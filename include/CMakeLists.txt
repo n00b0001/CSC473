@@ -1,0 +1,3 @@
+set(INCLUDE_LIST
+    "${ASSIGNMENT_INCLUDE_ROOT}/MayaCamera.hpp"
+    PARENT_SCOPE)

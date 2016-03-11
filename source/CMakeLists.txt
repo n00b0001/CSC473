@@ -1,0 +1,5 @@
+set(SOURCE_LIST
+    "${ASSIGNMENT_SOURCE_ROOT}/main.cpp"
+    "${ASSIGNMENT_SOURCE_ROOT}/MayaCamera.cpp"
+    "${ASSIGNMENT_SOURCE_ROOT}/PointMass.cpp"
+    PARENT_SCOPE)
